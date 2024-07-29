@@ -14,5 +14,5 @@
 
 ## Possíveis upgrades:
 
-### Adicionar as demais operações de interação com o bancod e dados.
+### Adicionar as demais operações de interação com o banco de dados.
 
